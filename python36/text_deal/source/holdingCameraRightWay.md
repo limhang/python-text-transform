@@ -1,0 +1,25 @@
+#c 先来掌握相机的握持方法和拍摄姿势吧
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/hold_way/hold_way_img_01.jpg[]相机握持一
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/hold_way/hold_way_img_02.jpg[]相机握持二
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/hold_way/hold_way_img_03.jpg[]相机握持三
+#b 基本的握持方式
+#p 右手握住相机手柄，左手托住相机镜头底部。使用变焦镜头时，左手可以方便地转动镜头上的变焦环进行变焦。初学者常常用双手握住相机的两侧，这样握持很容易抖动，是不正确的姿势。
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/hold_way/hold_way_img_04.jpg[]相机握持四
+#b 使用取景器的方法
+#p 使用取景器拍摄，可以清晰地观察到显示器中的取景图像和设定参数，是最基本的拍摄方式。取景时眼睛与相机电子取景器平行，尽可能贴近取景窗口，以获得最佳的视野。同时脸部紧靠相机，可令相机更稳定。
+#b 拍摄姿势
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/hold_way/hold_way_img_05.jpg[]相机握持五
+#b 站姿
+#p 基本要点是夹紧上臂。这里要注意整体的姿态，往往弓着背的时候就会无意识地放松双臂，导致“手抖”。站立拍摄的时候要把自己想象成三脚架，双脚分开与肩同宽，以提供稳当的支撑。
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/hold_way/hold_way_img_06.jpg[]相机握持六
+#b 蹲姿
+#p 拍摄人物全身照的时候，从较低的角度拍摄会得到较好的身体比例。这时候我们采用单腿跪地的姿势拍摄。右膝着地，左手肘部支撑在左膝的姿势，可以让长时间的拍摄更平稳。
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/hold_way/hold_way_img_07.jpg[]相机握持七
+#b 竖构图
+#p 拍摄竖构图时，将相机旋转90度。相机手柄向上或向下都是可以的。手柄向上的姿势比较便于移动；手柄向下的姿势，可以夹紧上臂，更加稳定。
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/hold_way/hold_way_img_08.jpg[]相机握持八
+#b 使用实时显示拍摄
+#p 用惯卡片机的初学者习惯看相机屏幕拍摄，这样很容易发生“手抖”。在拍摄的时候让两臂呈45度弯曲，上臂紧贴胸部，可以提供一部分支撑，让拍摄更为平稳。
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/hold_way/hold_way_img_09.jpg[]相机握持九
+
+				

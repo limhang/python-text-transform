@@ -69,27 +69,32 @@ class TextAnalysis:
 			return content_final
 
 
-file = open("test01.md")
 html_head_content = open("temp.html")
-while 1:
-    line = file.readline()
-    if not line:
-        break
-    else:
-    	Text = TextAnalysis(line)
-    	content_write = Text.deal()
-    	if content_write is not None:
-    		currentDir = os.getcwd() + '/' + 'pages' + '/' + 'test'
-    		if not os.path.exists(currentDir):
-    			os.makedirs(currentDir)
-    		html_head = html_head_content.read();
-    		# html_head = r'<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>xxxxxx</title><style type="text/css">div.title_01 {font-size:32px;}div.title_02 {font-size:28px;}div.title_03 {font-size:22px; background-color: red;}div.content_bold {margin-bottom: 10px;font-size: 18px;font-weight: bold;}div.content_custom {}div.center_img {width:100%}</style></head><body>'
-    		html_foot = r'</body></html>'
-    		f = open(currentDir + '/' + 'test.html','a')
-    		f.write(html_head)
-    		f.write(content_write)
-    		f.write(html_foot)
+html_head = html_head_content.read();
+
+files = os.listdir(os.getcwd() + '/' + 'source')
+for file in files: #遍历文件夹  
+	result_name = file[:-3]
+	file_analysis = open(os.getcwd() + '/' + 'source' + '/' + file)
+	while 1:
+	    line = file_analysis.readline()
+	    if not line:
+	        break
+	    else:
+	    	Text = TextAnalysis(line)
+	    	content_write = Text.deal()
+	    	if content_write is not None:
+	    		currentDir = os.getcwd() + '/' + 'result'
+	    		if not os.path.exists(currentDir):
+	    			os.makedirs(currentDir)
+	    		# html_head = r'<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>xxxxxx</title><style type="text/css">div.title_01 {font-size:32px;}div.title_02 {font-size:28px;}div.title_03 {font-size:22px; background-color: red;}div.content_bold {margin-bottom: 10px;font-size: 18px;font-weight: bold;}div.content_custom {}div.center_img {width:100%}</style></head><body>'
+	    		html_foot = r'</body></html>'
+	    		f = open(currentDir + '/' + result_name + '.html','a')
+	    		f.write(html_head)
+	    		f.write(content_write)
+	    		f.write(html_foot)
 f.close()
+html_head_content.close()
 
 
 
