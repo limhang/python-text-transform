@@ -1,0 +1,42 @@
+#c 控制照片的亮度——光圈、快门速度、感光度
+#p 拍照片一定躲不开一个词，那就是曝光。只有合理曝光的照片才会有恰当的亮度，不会太亮或者太暗。而要想控制照片的亮度，需要了解光圈、快门速度与感光度之间的关系。
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/asiso/asiso_img_01.jpg[]光圈快门感一
+#b 光圈
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/asiso/asiso_part_img_01.jpg[]光圈快门感二
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/asiso/asiso_img_02.jpg[]光圈快门感三
+#ci 使用光圈值：F1.4 
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/asiso/asiso_img_03.jpg[]光圈快门感四
+#ci 使用光圈值：F11
+#c 光圈越小，景深越深；光圈越大，景深越浅
+#p 光圈代表镜头的孔径，光圈越大代表镜头的孔径越大，单位时间里进入镜头的光线也就越多。光圈值一般以F+数字的形式表现，需要注意的是，数字越大表示光圈越小，镜头的孔径也就越小，例如F1.4光圈的孔径要比F11的要大。
+#p 光圈除了控制进光量外，最大的作用就是制控照片的景深（景深是指被摄体前后清晰可见的范围）。我们看很多照片背景都是虚的，就是因为景深很浅的原因。简单来说，在其他条件不变的情况下，使用的光圈越大（即F后面的数值越小），景深就越浅，背景就越虚；光圈越小则景深越大。如上面左边和右边的两幅作品，当光圈值设定为F1.4时，背景中的物体呈一片模糊状；当光圈值设定为F11时，画面中的所有物体都清晰可见。
+#p 一般来说，在拍摄人像、花卉等作品时常用大光圈以虚化背景突出主体，而在拍摄风景时，为了把景物都拍清楚，通常使用较小的光圈来拍摄。不过需要注意的一点是，设置光圈大小的时候要适度，不要一味追求过大或过小的光圈。例如在拍摄人像时使用非常大的光圈，很容易造成模特脸上大部分地方都是虚的。在拍摄风景时同样要注意别使用太小的光圈，光圈过小会有衍射现象发生，影响画质，一般来说不要超过F16为宜。
+#b 快门速度
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/asiso/asiso_part_img_02.jpg[]光圈快门感五
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/asiso/asiso_img_04.jpg[]光圈快门感六
+#ci 快门速度：1/20秒
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/asiso/asiso_img_05.jpg[]光圈快门感七
+#ci 快门速度：30秒
+#c 快门速度越高，运动中的被摄体越清晰；快门速度越低，运动中的被摄体越模糊
+#p 快门速度代表相机曝光的时间，一般用时间来表示。如1秒、1/30秒、5秒等。很好理解，快门速度越慢，曝光的时间越长，进入镜头的光线就越多。
+#p 快门速度主要用来控制被摄体运动的轨迹。最常见的例子就是夜晚高速的车流（如上面左边和右边的两幅作品）。当使用高速快门拍摄时，照片中定格的是一辆辆高速行驶中的汽车，而使用慢速快门拍摄时，记录在照片上的则是由车灯照亮的行车轨迹。
+#b 感光度
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/asiso/asiso_part_img_03.jpg[]光圈快门感八
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/asiso/asiso_img_06.jpg[]光圈快门感九
+#ci 感光度100
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/asiso/asiso_img_07.jpg[]光圈快门感十
+#ci 感光度1600
+#c 感光度越低，画质越高（几乎没有噪点）；感光度越高，画质越差（噪点变多）
+#p 感光度是从胶片时代保留下来的概念，在胶片时代表示胶片对光线的敏感程度，在数码相机时代，感光度表示的是影像传感器对光线的敏感程度。感光度以ISO加数字表示，数字越高，感光度越高，影像传感器对光线就越敏感。要注意，根据数码相机的成像原理，感光度越高，照片的噪点就越多，画质也就越差。
+#p 调节感光度能够让你在调节光圈、快门速度时能有更大的选择余地，由于感光度越高照片中的噪点越多，画质越差，因此建议尽可能使用较低的感光度来拍摄。不过，在昏暗的场景、需要使用高速快门或者小光圈拍摄的时候，为了保证照片拍摄的成功率，应适当调高感光度。如上面左边和右边的两幅作品，女孩在昏暗的室内玩耍小灯，将感光度设定为ISO100，画面不仅过于暗淡，还略显模糊。将感光度调至ISO1600，提亮了整幅画面亮度的同时，清晰的抓拍到了孩子玩耍中的俏皮瞬间。
+#b 控制亮度的铁三角——光圈、快门速度、感光度
+#p 光圈和快门速度的组合称为曝光值，它们和感光度一起，决定了一张照片的亮度。简单来说，照片的亮度=曝光量×感光度。
+#p 照片的亮度与曝光量和感光度都成正比。
+#p 当感光度不变时，曝光量越大，照片越亮。
+#p 当曝光量不变时，感光度越高，照片越亮。
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/asiso/asiso_part_img_03.jpg[]光圈快门感十一
+#i http://www.nikon.com.cn/microsite/beginnertutor/common/images/base_knowledge/asiso/asiso_part_img_04.jpg[]光圈快门感十二
+#p 为了方便理解这三者的关系，我们可以用最常见的自来水来打比方（如上面左边和右边两幅图）。水代表光线，水龙头的阀门就像相机的光圈一样，阀门拧开越大，即光圈越大，水流就越大，接满一杯水用的时间就越短；快门速度就是打开水龙头的时间，打开时间越长，流出的水也就越多；而感光度则像接水的水杯一样，水杯越小，代表感光度越高，那么接满一杯水用的时间就越短，而水杯越大，则说明感光度越低，那么接满一杯水的时间就越长。
+#p 光圈、快门、感光度是控制照片亮度、虚化等效果的关键因素。查看更多基础知识请前往 - 白平衡
+
+
